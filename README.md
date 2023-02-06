@@ -17,3 +17,19 @@ Furthermore, let me know of if there can be any additions. I will probably updat
 - Tab to select `ok` and then space again to exit
 
 The script will automatically cause a reboot after this step is done.
+
+## To use:
+
+Run the following one by one:
+
+```sh
+git clone https://github.com/Thingybob8055/framework-ubuntu-setup.git
+
+cd  framework-ubuntu-setup
+
+chmod +x fw-ubuntu-2204.sh
+
+./fw-ubuntu-2204.sh
+```
+
+Enter password where necessary.
